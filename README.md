@@ -10,7 +10,7 @@ while the adjectives and verbs come from adjectives.txt and verbs.txt. The numbe
 
 ## Getting Started
 
-To run any of the python files, simply:
+To run any of the python files, simply type the following command in terminal:
 
 '''
 python main.py adjectives.txt verbs.txt
@@ -20,9 +20,9 @@ python main.py adjectives.txt verbs.txt
 
 This program first generates queries in the form of
 
-'''
+```
 "I am [adjective] because "
-'''
+```
 
 where the adjectives come from adjectives.txt. Then it takes the google suggestions for the above query and google their search results respectively. The number of search results are then stored in results_main.txt. Next, the program generates queries in the form of:
 
