@@ -1,0 +1,515 @@
+"i have because of you"	303
+"you have because you ask not"	1
+"i say because in french"	0
+"i say because in spanish"	1
+"you say because in spanish"	6
+"we say because"	1,180,000
+"i do because i can"	4,330
+"i do because i couldn&#39;t care less"	588,000,000
+"i do because i want"	4,570
+"we do because we can"	0
+"i go because you"	8,530
+"you go because you must"	123
+"i think because i am"	4,820
+"i think because for example"	63
+"i think because you"	13,700
+"you think because you understand one"	15,900
+"you think because i am poor"	53,900
+"you think because you touched me"	18,900
+"i am good because of you"	4
+"i want because i can"	1,930
+"i see because i&#39;m happy"	3,190,000,000
+"we see because of light"	93
+"i know because of krs one"	46,800
+"i know because i won both of them"	42,100
+"i know because i was there"	6,970
+"i know because i sold it to you"	7
+"i know because i crippled him myself"	2,160
+"i know because my heart tells me so lyrics"	0
+"i know because you"	8,640
+"you know because of the implication"	63,100
+"you know because you need to know"	39
+"we know because we go"	937
+"we come because of you"	6
+"we help because we want to"	82
+"i give because i know how it feels to want"	11,300
+"i give because quotes"	502
+"i give because campaign"	143
+"i give because united way"	7
+"we give because he gave"	9,290
+"we give because god gave first"	609
+"we give because we are blessed"	3,010
+"we give because he first gave verse"	0
+"we give because someone gave to us"	2,150
+"we give because"	229,000
+"we give because we love god"	3,530
+"we give because we are thankful"	40
+"we give because we love"	38,000
+"we are final because we are infallible"	0
+"i am late because of traffic"	756
+"i am late because of who i am as a person"	1
+"i am late because i didn&#39;t want to come"	464,000,000
+"i am late because you are late"	1
+"i win because i win"	84
+"we win because you didn&#39;t"	1,020,000,000
+"we win because of you lyrics"	0
+"we win because of you"	37
+"we need because"	345,000
+"i am small because i am a child"	3
+"i am great because i stand on the shoulders of giants"	68
+"i am great because of you"	6
+"i am great because i am the greatest"	0
+"we are great because we are good"	90,300
+"i work because quotes"	0
+"i work because i&#39;m hungry"	7,240,000,000
+"i work because my father works"	1
+"we use because"	581,000
+"i am only because you are"	7
+"we meet because of luck"	2,820
+"i am strong because i know my weaknesses"	33,300
+"i am strong because i have been weak"	36,900
+"i am strong because i depend on allah"	3,680
+"i am strong because i am weak"	46,300
+"i am strong because i&#39;ve been weak"	976,000,000
+"i am strong because of you"	59,300
+"i am strong because quotes"	86
+"i am strong because of god"	46
+"i am strong because i know my weakness wallpaper"	2,500
+"i am strong because i had to be"	44
+"you are strong because you are imperfect"	17,800
+"we are strong because we are weak"	5
+"we are strong because we despise weakness"	247
+"we are strong because we are together"	26,500
+"she is strong because quotes"	9
+"i believe because it is absurd"	17,600
+"i believe because of my beliefs"	7
+"i believe because he lives"	7
+"i believe because i can see"	52
+"you believe because you have seen me"	10,500
+"they believe because he believes"	8
+"she believes because she"	4,560
+"i cut because i like the scars"	1
+"i cut because i&#39;m bored"	1,830,000,000
+"i cut because i like blood"	0
+"i cut because of my mom"	0
+"i cut because of my parents"	0
+"i cut because it feels good"	5
+"i cut because i deserve it"	2
+"i am better because of you"	21,100
+"i am better because i knew you"	2
+"i am better because of you quotes"	8
+"i am better because i knew you wicked"	0
+"we are better because of you"	343
+"i run because i really like food"	33,100
+"i run because quotes"	781
+"i run because i can"	188,000
+"i run because i like to eat"	70
+"i run because i can quote"	130
+"i run because i love food"	88,700
+"i run because i like cake"	1,530
+"i run because meme"	2
+"i run because i really like cookies"	56,800
+"i run because i really like beer"	38,200
+"we run because we like it"	7,820
+"we run because"	82,100
+"we run because it&#39;s late"	1,900,000,000
+"we run because we must"	11,400
+"we run because we can"	30,100
+"i try because i care quotes"	5
+"i try because i love you"	9
+"i am different because quotes"	226
+"we are different because we love tea"	10
+"i am free because essay"	3
+"i am free because of jesus"	5,160
+"i am free because examples"	0
+"i am free because i&#39;m bound"	2,570,000,000
+"i am free because of the brave"	19,700
+"i am free because i know that i alone am"	101,000
+"i am free because quotes"	0
+"we are free because of jesus"	47
+"we are free because of the brave"	27,500
+"i am special because i can"	25,700
+"i am special because topic"	0
+"i am special because ideas"	1
+"i am special because god has loved me lyrics"	0
+"i am special because i am me"	2,490
+"i am special because worksheet"	8,580
+"i am special because i can examples"	0
+"i am special because i am"	29,100
+"i am special because kindergarten"	0
+"i am special because sentences"	0
+"you are special because quotes"	7
+"you are special because worksheet"	0
+"you are special because poem"	3
+"we are special because we are the same"	7
+"i feel because statements"	141
+"i feel because i need"	1,630,000
+"i feel because i&#39;m alive"	2,240,000,000
+"i leave because i love you"	6
+"they leave because they should doctor who"	0
+"he leaves because there is no hope"	2,090
+"he leaves because he must"	49
+"i am dead because i lack desire"	260
+"i am dead because of you"	6,940
+"you are dead because of sin"	1
+"you are dead because we killed you"	2
+"i like because i love despite"	2
+"i like because you are you"	0
+"you like because you love despite"	9,190
+"you like because and you love despite movie"	7
+"you like because you love"	245
+"you like because and you love despite movie quote"	2
+"you like because you despite"	0
+"we like because you love despite"	0
+"we like because we love in despite of"	0
+"i am right because i said so fallacy"	0
+"we are right because we are final"	6,550
+"we are right because we are japanese"	3
+"i stay because i love you quotes"	10
+"i stay because quotes"	0
+"i stay because of you my boy"	14,000
+"we stay because we don&#39;t know where else to go lyrics"	2,190,000,000
+"i live because you farm"	640
+"i live because he lives"	18,300
+"i live because of you"	97,000
+"i live because i can&#39;t die"	2,650,000,000
+"i live because he is risen lyrics"	4
+"i live because of you lyrics"	0
+"i live because of you quotes"	10
+"i live because of the father"	60,200
+"i live because he is risen"	3,600
+"i live because of you song"	1
+"you live because i live"	221
+"you live because i allow it"	995
+"we live because we love"	29,200
+"we live because we love lyrics"	0
+"we live because he died"	55
+"we live because"	162,000
+"he lives because he lives"	67,200
+"he lives because he lives selah lyrics"	58
+"he lives because he lives selah chords"	0
+"he lives because he lives selah"	246
+"he lives because he lives lyrics"	871
+"we build because we need shelter"	106
+"we create because we were created"	1,060
+"i am single because i take relationships seriously"	4,050
+"i am single because of"	181
+"i am single because apparently"	14,200
+"i am single because god status"	0
+"i am single because god"	21,800
+"i am single because status"	0
+"i am single because i am ugly"	203
+"i am single because quotes"	7,250
+"i am single because god is busy"	17,300
+"i am single because i don&#39;t play with love"	1,680,000,000
+"you are single because quotes"	0
+"i change because of you quotes"	0
+"i change because of you"	128
+"we change because quotes"	8
+"you are poor because you want to be"	2
+"you are poor because you have no ambition"	4,860
+"we are poor because we are poor"	130
+"we are poor because we lack attitude"	2,430
+"we are poor because we are poor explain"	0
+"i am enough because he is enough"	1,820
+"you are enough because he is enough"	27
+"i talk because i live it come pay me a visit lyrics"	0
+"i read because richard peck"	1
+"i read because quotes"	2
+"we read because"	90,000
+"i carry because i care"	958
+"i ask because i care"	34,800
+"i ask because i care quotes"	0
+"i ask because i&#39;m not sure"	1,460,000,000
+"i ask because comma"	0
+"we ask because we care"	16,400
+"we ask because we care poster"	7
+"we ask because we care toronto"	0
+"we ask because we care brochure"	2
+"we are powerful because we have survived"	2,000
+"they happen because of you"	43,400
+"i fight because i care quotes"	0
+"i fight because i have to"	570
+"i fight because i love you quotes"	10
+"i fight because i love you"	40
+"i fight because i care"	5,480
+"i fight because i must"	9,760
+"i fight because i have to lyrics"	0
+"i fight because i have to song"	0
+"you fight because you love"	10,700
+"we fight because we love"	9,390
+"we fight because we believe"	26,500
+"we fight because we must fight"	6,840
+"we fight because we are needed"	15,900
+"we fight because we love each other"	1,600
+"we fight because we care quotes"	239
+"we fight because of mother in law"	0
+"we fight because"	59,900
+"we fight because we care"	7,960
+"we fight because we miss each other"	0
+"she fights because she cares"	4
+"i understand because i love"	151
+"i understand because i love you"	10
+"i lose because of my team"	25
+"you lose because you didn&#39;t win"	541,000,000
+"we lose because we win"	144
+"we lose because you are fat"	7,400
+"we lose because we win analysis"	2
+"we lose because we told ourselves"	8
+"we serve because we love god"	1,290
+"we serve because we care"	8,250
+"we serve because we are saved"	783
+"i am happy because of you quotes"	95
+"i am happy because of you"	601
+"i am happy because you are in my life"	9
+"i am happy because i am alone"	4
+"i am happy because i am single"	59
+"i am happy because everyone loves me"	659
+"i am happy because i choose to be"	311
+"i am happy because of u"	102
+"i am happy because of you status"	0
+"i am happy because essay"	383
+"you are happy because you smile"	20
+"they are happy because they eat lard"	385
+"they are happy because their child"	6
+"we are happy because we laugh"	32,600
+"we are happy because we smile"	2,410
+"we are happy because we eat lard"	3
+"we are happy because of you"	104
+"we are happy because traduccion"	0
+"he is happy because of me"	38
+"he is happy because he lied"	0
+"i vote because quotes"	1
+"i am successful because quotes"	2
+"i am successful because of my mother"	1
+"i am successful because of you"	19
+"i am successful because i have failed"	3
+"i stand because you kneel because"	0
+"i stand because they stood for me"	7
+"i stand because they stood for us"	1,280
+"i stand because it&#39;s right"	1,890,000,000
+"i stand because they can&#39;t"	1,260,000,000
+"i stand because most won&#39;t"	876,000,000
+"i stand because of you"	11,700
+"i stand because i love my country"	1,940
+"we stand because we care"	1,160
+"we stand because they can&#39;t"	1,170,000,000
+"we stand because we care march"	125
+"i hurt because i love you"	5
+"you hurt because you&#39;re alive"	543,000,000
+"you hurt because you care"	19
+"you hurt because you are alive"	8
+"you hurt because you love"	28
+"we hurt because we love"	3,820
+"we hurt because we care"	661
+"we fall because someone pushes us"	3,890
+"we fall because"	36,400
+"you are dangerous because you&#39;re honest"	429,000,000
+"you are dangerous because you are honest"	0
+"i speak because i can"	86,500
+"i speak because i can lyrics"	471
+"i speak because i can chords"	51
+"i speak because i believe"	81
+"i speak because i can review"	3
+"i speak because i can tab"	8
+"i speak because i can vinyl"	437
+"we speak because we believe"	25
+"we speak because we know"	19,400
+"i kill because i&#39;m hungry"	582,000,000
+"i kill because i&#39;m hungry lyrics"	580,000,000
+"i kill because i&#39;m hungry mp3"	590,000,000
+"i kill because i&#39;m hungry download"	587,000,000
+"i kill because i&#39;m hungry soundcloud"	596,000,000
+"i kill because i&#39;m hungry one punch man"	603,000,000
+"i kill because i am hungry mp3"	70
+"i kill because i am hungry song"	1
+"we kill because we can"	25,900
+"we kill because we care"	541
+"we grow because we struggle"	4,050
+"i rise because you rose"	1
+"i love because quotes"	6
+"i love because lyrics"	3
+"i love because you first loved me lyrics"	0
+"i love because jim reeves"	2
+"i love because i am loved"	20,000
+"i love because you understand me"	1
+"i love because i need you"	95
+"i love because you understand me lyrics"	0
+"you love because and you love despite"	420
+"you love because and you like despite"	69
+"you love because you love despite movie"	0
+"you love because i first loved you"	3
+"we love because he first loved us"	321,000
+"we love because we belong"	3
+"we love because it is the only true adventure"	32,300
+"we love because he loved us"	60,600
+"we love because god first"	47,300
+"we love because god"	125,000
+"we love because you love despite"	0
+"i am weak because i am strong quote"	0
+"you are weak because you lack hatred"	10
+"you are weak because you are weak"	9
+"she is rare because she is real mark anthony"	522
+"she is rare because she is real"	15,300
+"she is rare because she is real meaning"	0
+"they spread because of trade"	3
+"i am complete because of you"	519
+"i am confident because i can admit"	60,100
+"i am rich because i have allah"	280
+"i am rich because i have friends"	402
+"i am rich because i have mom and dad"	0
+"i am rich because of bitcoin"	1
+"i am rich because quotes"	0
+"i am rich because i have ammi and abbu"	0
+"i am rich because i have you lord"	1
+"i am rich because i have you"	6
+"i am rich because i have allah meaning in urdu"	0
+"you are rich because you are white"	4,900
+"i share because i care"	22,100
+"we share because we care"	22,300
+"we remember because"	23,900
+"i act because i must"	13,300
+"i am limited because i have nodes"	413
+"i travel because i need to"	597
+"i travel because quotes"	557
+"i travel because i want to"	434
+"i travel because i have to"	35,300
+"i travel because life is short"	20,000
+"i travel because i need to quote"	0
+"i travel because seeing photos"	3,470
+"i travel because it makes me realize"	12,800
+"i travel because wine"	5
+"we travel because we need to"	23,300
+"we travel because quotes"	0
+"we travel because"	66,300
+"i am perfect because of you"	1
+"i write because you exist"	38,300
+"i write because nobody listens"	27,800
+"i write because quotes"	9
+"i write because i don&#39;t know what i think"	1,060,000,000
+"i write because i must"	65,000
+"i write because poem"	9
+"i write because nobody listens graffiti"	10
+"i write because sylvia plath"	0
+"i write because nobody listens quote"	0
+"we write because"	61,500
+"i die because i do not die"	1,740,000
+"we die because of sin"	62
+"we die because of oxygen"	0
+"we die because we accept it as an inevitability"	8
+"i fly because it releases my mind"	9,800
+"we fly because"	10,200
+"she flies because she can"	7,110
+"i draw because words are too unpredictable"	9,440
+"i draw because quotes"	0
+"i am angry because i love you"	1
+"i am angry because of you"	22
+"i am angry because i forgive you"	18
+"i am angry because i care"	8
+"i am angry because i am single"	0
+"they are angry because of the high taxes traduccion"	0
+"she is angry because i ignore her"	2
+"she is angry because i made fun of her"	8
+"she is angry because they are too late"	4
+"he is angry because i broke up with him"	0
+"he is angry because i ignored him"	0
+"i am alive because he lives"	2,280
+"i am alive because of you quotes"	3
+"i am alive because you are alive lyrics"	0
+"i am alive because jesus lives"	350
+"i am alive because i think"	3
+"i am alive because you&#39;re alive lyrics"	447,000,000
+"i am alive because that one is dead"	1,520
+"i am alive because of you"	12,800
+"i am alive because of jesus"	18
+"i am alive because you are my life"	0
+"you are alive because of your dad"	0
+"you are alive because of me"	52
+"we are alive because of god&#39;s grace"	204,000,000
+"i walk because poster"	3
+"we walk because we must"	18
+"i worry because i care"	8,840
+"i worry because i love you"	14,200
+"i worry because i care quotes"	5
+"i worry because i love you poems"	0
+"i quit because of my boss"	4
+"i quit because of a hostile working environment"	0
+"i quit because quotes"	0
+"i eat because i&#39;m unhappy"	1,170,000,000
+"i eat because i&#39;m bored"	1,160,000,000
+"i eat because i&#39;m unhappy gif"	1,150,000,000
+"i eat because i&#39;m sad meme"	1,180,000,000
+"i eat because i&#39;m fat"	1,130,000,000
+"i eat because i hate myself"	9
+"i eat because i&#39;m depressed fat bastard"	1,150,000,000
+"i eat because i lift"	2,730
+"i eat because i&#39;m unhappy quote"	1,150,000,000
+"i eat because of anxiety"	1
+"we eat because we work poster"	229
+"we eat because"	97,200
+"you are clean because of the word"	13,700
+"i am worried because i have an exam tomorrow"	0
+"i argue because i care quotes"	637
+"i argue because i love you"	5
+"i argue because i care"	2,050
+"we argue because we care"	581
+"she argues because she cares"	1
+"he argues because he cares"	2
+"i care because you do"	144,000
+"i care because you do vinyl"	4,590
+"i care because you do review"	349
+"i care because you do pitchfork"	9
+"i care because you do rym"	6
+"i care because you do anagrams"	55
+"i care because you do discogs"	82
+"i care because you do cover"	301
+"i care because you do full album"	213
+"i care because you do 1995"	25,400
+"we care because you do slogan"	0
+"we care because you should"	26,600
+"we care because quotes"	0
+"we care because"	146,000
+"we care because you do"	32,700
+"we care because we love"	13,600
+"we care because you matter"	5,930
+"we care because you care"	11,900
+"i lift because punching is frowned upon"	168
+"i lift because i eat"	3,130
+"i lift because i hate myself"	10
+"i am busy because i am vain"	159
+"i am proud because i am indian"	256
+"i am proud because i am muslim"	416
+"we last because we&#39;re colorful"	3,520,000,000
+"i am beautiful because essay"	7
+"i am beautiful because i am unique"	1,530
+"i am beautiful because quotes"	5
+"i am beautiful because god created me"	893
+"i am beautiful because i know my flaws"	37,900
+"i am beautiful because god made me"	12,000
+"i am beautiful because of you quotes"	8
+"i am beautiful because god says i am"	1,840
+"you are beautiful because quotes"	0
+"you are beautiful because god made you"	10,900
+"you are beautiful because poem"	0
+"we are beautiful because we are doomed"	2,490
+"she is beautiful because you love her"	86,200
+"we overcome because he overcame"	345
+"i succeed because i fail"	1,700
+"we succeed because"	36,200
+"i am calm because i passed the bar"	252
+"i am afraid because of you"	34,400
+"we are afraid because we tremble"	949
+"we are afraid because we run"	3,750
+"i am sick because of you"	26
+"i am sick because of flu"	0
+"i am sick because i miss you"	0
+"he is sick because sentence"	0
+"i am unique because essay mba"	8
+"i am unique because essay"	9,950
+"i am unique because quotes"	0
+"i am unique because poem"	3
+"i am unique because worksheets"	3
+"i am unique because game"	0
+"i am unique because examples"	1
+"i am unique because god made me"	437
+"we wish because we need help"	4,440
