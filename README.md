@@ -1,6 +1,6 @@
 # Web Scraping Google Search Results
 
-There are three different versions of codes where all three of them serve to acquire and store the number of search results obtained from self-generated google queries. To be more specific, the queries are clauses in the form of "I am [adjective] because I [verb]", while the adjectives and verbs come from adjectives.txt and verbs.txt. The number of search results are then stored in respecive results.txt files.
+There are three different versions of codes where all three of them serve to acquire and store the number of search results obtained from self-generated google queries. To be more specific, the queries are clauses in the form of "I am [adjective] because I [verb]", while the adjectives and verbs come from adjectives.txt and verbs.txt. The number of search results are then stored in respective results.txt files.
 
 ## Getting Started
 
