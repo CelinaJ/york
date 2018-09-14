@@ -6,9 +6,6 @@ import urllib3
 import certifi
 import argparse
 import os
-# import multiprocessing as mp
-#from bs4 import BeautifulSoup
-
 
 def random_user_agent():
 	user_agents = \
@@ -30,30 +27,9 @@ def random_user_agent():
 		 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"]
 	return random.choice(user_agents)
 
-# def get_proxies(link):  
-# 	response = requests.get(link)
-# 	soup = BeautifulSoup(response.text,"lxml")
-# 	https_proxies = filter(lambda item: "yes" in item.text, soup.select("table.table tr"))
-# 	for item in https_proxies:
-# 	    yield "{}:{}".format(item.select_one("td").text, item.select_one("td:nth-of-type(2)").text)
-
-# def get_random_proxies_iter():
-# 	proxies = list(get_proxies('https://www.sslproxies.org/'))
-# 	random.shuffle(proxies)
-# 	return iter(proxies)  # iter so we can call next on it to get the next proxy
-
 class Google:
 	def __init__(self):
 		self.session = requests.Session()
-
-	# def get_proxy(self, session, proxies, validated=False):
-	# 	self.session.proxies = {'https': 'https://{}'.format(next(proxies))}
-	# 	if validated:
-	# 		while True:
-	# 			try:
-	# 				return session.get('https://httpbin.org/ip').json()
-	# 			except Exception:
-	# 				self.session.proxies = {'https': 'https://{}'.format(next(proxies))}
 
 	def get_num_searches(self, query):
 		url = "http://www.google.com/search?q="
@@ -66,20 +42,6 @@ class Google:
       
 		while is_blocked == True:
 			time.sleep(wait)
-
-			# # obtain a working proxy
-			# proxies = get_random_proxies_iter()
-			# valid_proxy = False
-
-			# while valid_proxy == False:
-			# 	try:
-			# 		self.session.headers.update({"User-Agent": random_user_agent()})
-			# 		print(self.get_proxy(self.session, proxies, validated=True))  #collect a working proxy to be used to fetch a valid response
-			# 		valid_proxy = True # as soon as it fetches a valid response, it will break out of the while loop
-			# 	except StopIteration:
-			# 		raise  # No more proxies left to try
-			# 	except Exception:
-			# 		pass  # Other errors: try again
 
 			self.session.headers.update({"User-Agent": random_user_agent()})
 			search_result = self.session.get(url + query, verify=True)
