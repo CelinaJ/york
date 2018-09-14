@@ -12,9 +12,9 @@ while the adjectives and verbs come from adjectives.txt and verbs.txt. The numbe
 
 To run any of the python files, simply type the following command in terminal:
 
-'''
+```
 python main.py adjectives.txt verbs.txt
-'''
+```
 
 ## main.py
 
